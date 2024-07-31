@@ -1,0 +1,23 @@
+                        Lecture 10
+
+    1: Sort 0,1,2
+    2: Unique Number of Occurence
+
+                        Lecture 7
+
+    1: 2 Questions Are Remaining
+
+                        Lecture 14
+
+    1: Square Root of an Integer (Binary Search)
+
+                        Lecture 24 (Basic Maths)
+
+    1: Segmented Sieve
+    2: PigeonHole Principle
+    3: catalon Number
+    4: Inclusion & Exclusion Principle
+
+    
+
+    

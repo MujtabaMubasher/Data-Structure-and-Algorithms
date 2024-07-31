@@ -1,0 +1,17 @@
+                        Lecture 10
+    1: Sort 0,1,2
+    2: Unique Number of Occurence
+
+                        Lecture 7
+
+    1: 2 Questions Are Remaining
+
+                        Lecture 14
+
+    1: Square Root of an Integer (Binary Search)
+
+                        Lecture 25
+  
+   pointers Questions: https://www.naukri.com/code360/guided-paths/pointers
+
+    
